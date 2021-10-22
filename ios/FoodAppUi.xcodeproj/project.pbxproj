@@ -15,6 +15,8 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		849611AD2720634600AB052E /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8496117B27205F8D00AB052E /* Montserrat-Regular.ttf */; };
 		849611AF2720645B00AB052E /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8496117A27205F8C00AB052E /* Montserrat-Bold.ttf */; };
+		84B6694E2722F5CB00D45888 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8496117C27205F8D00AB052E /* Montserrat-SemiBold.ttf */; };
+		84B669512722F68100D45888 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8496117927205F8C00AB052E /* Montserrat-Medium.ttf */; };
 		C0BFC16C82813E843F511DF1 /* libPods-FoodAppUi-FoodAppUiTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 570E924AB2DE6E9433D9FB82 /* libPods-FoodAppUi-FoodAppUiTests.a */; };
 /* End PBXBuildFile section */
 
@@ -288,6 +290,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84B669512722F68100D45888 /* Montserrat-Medium.ttf in Resources */,
+				84B6694E2722F5CB00D45888 /* Montserrat-SemiBold.ttf in Resources */,
 				849611AF2720645B00AB052E /* Montserrat-Bold.ttf in Resources */,
 				849611AD2720634600AB052E /* Montserrat-Regular.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
