@@ -3,7 +3,7 @@ const categoriesData = [
     id: 1,
     image: require('../images/pizza-icon.png'),
     title: 'Pizza',
-    selected: false,
+    selected: true,
   },
   {
     id: 2,
